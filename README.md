@@ -21,4 +21,4 @@ If you have successfully completed the previous step, you can now insert the USB
 
 ## Post Installation
 
-so we are in our system, but what now, we don't have graphics, only a black console, and to have graphics we have to install them from ready-made packages. for more info read the **Gui Setup** sections in the official documentation.
+so we are in our system, but what now, we don't have graphics, only a black console, and to have graphics we have to install them from ready-made packages. for more info read the [**Gui Setup**](https://github.com/CoCoPure/CoCoPure/wiki/GUI#gui-setup) sections in the official documentation.
