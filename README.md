@@ -10,7 +10,7 @@
 >[!NOTE]
 >If you use Android, you can use "Pi sd card imager" to burn .iso
 
-So you want to install CoCo Pure. First, download the Coco .iso file. Then use any flasher to burn the .iso file to a USB drive. Some of the most popular are rufus, balena etcher and raspberry pi imager
+So you want to install CoCo Pure. First, download the [Coco .iso file](https://github.com/CoCoPure/CoCoPure/releases). Then use any flasher to burn the .iso file to a USB drive. Some of the most popular are rufus, balena etcher and raspberry pi imager
 
 ## First Boot
 
